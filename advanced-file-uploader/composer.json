@@ -1,0 +1,10 @@
+{
+    "require": {
+        "google/apiclient": "2.12.6"
+    },
+    "config": {
+        "platform": {
+            "php": "8.0.30"
+        }
+    }
+}
