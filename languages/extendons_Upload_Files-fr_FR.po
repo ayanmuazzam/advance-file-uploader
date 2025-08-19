@@ -1,0 +1,605 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: File Uploader for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-01 09:53+0000\n"
+"PO-Revision-Date: 2025-07-24 13:45+0000\n"
+"Last-Translator: \n"
+"Language-Team: French (France)\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.10; wp-6.5.5\n"
+"X-Domain: extendons_Upload_Files"
+
+#: admin/view/template/extendons_edit_settings.php:28
+msgid "\tEnable"
+msgstr "\tActiver"
+
+#: admin/extendons-upload-files-admin.php:183
+#, fuzzy, php-format
+msgid ""
+"%1$s Note: %2$s If you are using a page builder (such as Elementor or "
+"WPBakery), the upload buttons may not appear on your pages. In that case, "
+"use the %3$s[extendons_upload_button]%4$s shortcode to display the file "
+"upload button."
+msgstr ""
+"Remarque : %1$s Si vous utilisez un outil de création de pages (comme "
+"Elementor ou WPBakery), les boutons de téléchargement risquent de ne pas "
+"apparaître sur vos pages. Dans ce cas, utilisez le shortcode "
+"%3$s[extendons_upload_button]%4$s pour afficher le bouton de téléchargement."
+
+#: admin/extendons-upload-files-admin.php:1125
+#, fuzzy
+msgid "0"
+msgstr "0"
+
+#: admin/extendons-upload-files-admin.php:989
+msgid "Accept"
+msgstr "Accepter"
+
+#: admin/view/template/extendons-General-settings.php:56
+#: admin/view/template/extendons_edit_settings.php:76
+msgid "Account Page"
+msgstr "Page de compte"
+
+#: admin/view/template/extendons_update_orderfile_data.php:13
+#, fuzzy
+msgid "Action"
+msgstr "Action"
+
+#: admin/view/template/extendons_uploadfiles_ccta_order_btn_.php:63
+#: admin/view/template/extendons_uploadfiles_ccta_order_btn_.php:85
+#: admin/view/template/extendons_upload_file_popup.php:79
+#: admin/view/template/extendons_upload_file_popup.php:102
+#: admin/view/template/extendons_uploadfile_ccta_data.php:80
+#: admin/view/template/extendons_uploadfile_ccta_data.php:103
+#, fuzzy
+msgid "Actual Price: "
+msgstr "Prix réel:"
+
+#: admin/view/upload-files-admin-settings-page.php:21
+msgid "Add Rule"
+msgstr "Ajouter une règle"
+
+#: admin/view/upload-files-admin-settings-page.php:29
+#, fuzzy
+msgid "Additional Settings"
+msgstr "Paramètres supplémentaires"
+
+#: admin/view/template/extendons-General-settings.php:102
+#: admin/view/template/extendons_edit_settings.php:128
+msgid "Allowed Extension:"
+msgstr "Extension autorisée :"
+
+#: admin/view/template/extendons_uploadfiles_ccta_order_btn_.php:28
+#: admin/view/template/extendons_upload_file_popup.php:26
+#: admin/view/template/extendons_uploadfile_ccta_data.php:27
+#, fuzzy
+msgid "Allowed extension: "
+msgstr "Extension autorisée :"
+
+#: front/templates/extendons_template_html_cart_page_upload.php:32
+#, fuzzy
+msgid "Allowed Extensions:"
+msgstr "Extensions autorisées :"
+
+#: admin/view/template/extendons-General-settings.php:169
+#: admin/view/template/extendons_edit_settings.php:199
+msgid "Background Color:"
+msgstr "Couleur de l'arrière plan:"
+
+#: admin/view/template/extendons-General-settings.php:41
+#: admin/view/template/extendons_edit_settings.php:60
+msgid "Cart Page"
+msgstr "Page du panier"
+
+#: admin/view/template/extendons-General-settings.php:61
+#: admin/view/template/extendons_edit_settings.php:81
+#, fuzzy
+msgid "Cart Page (Alongside Cart Items)"
+msgstr "Page du panier (à côté des articles du panier)"
+
+#: admin/view/template/extendons-General-settings.php:199
+#: admin/view/template/extendons_edit_settings.php:233
+#, fuzzy
+msgid "Category"
+msgstr "Catégorie"
+
+#: admin/view/template/extendons-General-settings.php:66
+#: admin/view/template/extendons_edit_settings.php:86
+#, fuzzy
+msgid "Checkout Page (Alongside Cart Items)"
+msgstr "Page de paiement (à côté des articles du panier)"
+
+#: admin/view/template/extendons-General-settings.php:46
+#: admin/view/template/extendons_edit_settings.php:66
+msgid "Checkout Page > After Notes"
+msgstr "Page de paiement > Après les notes"
+
+#: admin/view/template/extendons_update_orderfile_data.php:114
+#, fuzzy
+msgid "Choose File"
+msgstr "Choisir le fichier"
+
+#: admin/view/template/extendons-General-settings.php:12
+#: admin/view/template/extendons_edit_settings.php:27
+msgid "Choose visibility"
+msgstr "Choisissez la visibilité"
+
+#: front/extendons-upload-files-front.php:455
+#: admin/extendons-upload-files-admin.php:401
+#, fuzzy
+msgid "Customer Note"
+msgstr "Note client"
+
+#: admin/view/template/extendons_upload_file_popup.php:260
+#: admin/view/template/extendons_uploadfile_ccta_data.php:240
+#, fuzzy
+msgid "Customer Notes"
+msgstr "Notes aux clients"
+
+#: admin/view/template/extendons-General-settings.php:160
+#: admin/view/template/extendons_edit_settings.php:188
+msgid "Customer Notes Label:"
+msgstr "Étiquette de notes client :"
+
+#: admin/view/template/extendons-General-settings.php:151
+#: admin/view/template/extendons_edit_settings.php:179
+msgid "Customer Notes:"
+msgstr "Notes du client :"
+
+#: front/templates/extendons_template_html_cart_page_upload.php:25
+#: admin/view/template/extendons-General-settings.php:129
+#: admin/view/template/extendons_edit_settings.php:156
+msgid "Description:"
+msgstr "Description:"
+
+#: admin/view/template/extendons_uploadfiles_ccta_order_btn_.php:17
+#: admin/view/template/extendons_upload_file_popup.php:17
+#: admin/view/template/extendons_uploadfile_ccta_data.php:16
+#, fuzzy
+msgid "Description: "
+msgstr "Description: "
+
+#: admin/view/template/extendons-General-settings.php:14
+#: admin/view/template/Recaptcha.php:24
+#: admin/view/template/extendons_edit_settings.php:29
+msgid "Disable"
+msgstr "Désactiver"
+
+#: admin/view/template/extendons-General-settings.php:121
+#: admin/view/template/extendons_edit_settings.php:148
+msgid "Discount Price:"
+msgstr "Prix bas:"
+
+#: admin/view/template/extendons_edit_settings.php:142
+msgid "Discount Type"
+msgstr "Type de remise"
+
+#: admin/view/template/extendons-General-settings.php:112
+#: admin/view/template/extendons_edit_settings.php:139
+msgid "Discount Type:"
+msgstr "Type de remise :"
+
+#: admin/view/template/extendons_uploadfiles_ccta_order_btn_.php:68
+#: admin/view/template/extendons_uploadfiles_ccta_order_btn_.php:90
+#: admin/view/template/extendons_upload_file_popup.php:84
+#: admin/view/template/extendons_upload_file_popup.php:107
+#: admin/view/template/extendons_uploadfile_ccta_data.php:85
+#: admin/view/template/extendons_uploadfile_ccta_data.php:108
+#, fuzzy
+msgid "Discount: "
+msgstr "Rabais: "
+
+#: admin/view/template/extendons-General-settings.php:33
+#: admin/view/template/extendons_edit_settings.php:49
+msgid "Display On"
+msgstr "Affichage activé"
+
+#: admin/view/template/extendons-manage-rules.php:25
+msgid "Display Position"
+msgstr "Position d'affichage"
+
+#: admin/extendons-upload-files-admin.php:958
+#, fuzzy
+msgid "Download"
+msgstr "Télécharger"
+
+#: admin/view/template/extendons-General-settings.php:13
+#: admin/view/template/Recaptcha.php:23
+msgid "Enable"
+msgstr "Activer"
+
+#: admin/view/template/extendons_upload_files_rule_html.php:94
+#, fuzzy
+msgid "Enable to Allow Customer notes"
+msgstr "Activer pour autoriser les notes du client"
+
+#: admin/view/template/extendons-General-settings.php:5
+#: admin/view/template/extendons_edit_settings.php:18
+msgid "Enable/Disable"
+msgstr "Activer désactiver"
+
+#: admin/view/template/Recaptcha.php:16
+msgid "Enable/Disable Recaptcha"
+msgstr "Activer/Désactiver Recaptcha"
+
+#. Author of the plugin
+msgid "Extendons"
+msgstr "Extensions"
+
+#: admin/extendons-upload-files-admin.php:1702
+#: admin/extendons-upload-files-admin.php:1703
+#, fuzzy
+msgid "extendons_Upload_Files"
+msgstr "extendons_Upload_Files"
+
+#: admin/view/template/extendons_upload_file_popup.php:312
+#, fuzzy
+msgid "File Successfully uploaded"
+msgstr "Fichier téléchargé avec succès"
+
+#: front/templates/extendons_template_html_cart_page_upload.php:54
+#, fuzzy
+msgid "File upload price after discount:"
+msgstr "Prix de téléchargement du fichier après remise :"
+
+#: admin/extendons-upload-files-admin.php:1676
+#, fuzzy
+msgid "File Uploader"
+msgstr "Téléchargeur de fichiers"
+
+#. Name of the plugin
+msgid "File Uploader for WooCommerce"
+msgstr "Téléchargeur de fichiers pour WooCommerce"
+
+#: admin/view/template/extendons_update_orderfile_data.php:11
+#, fuzzy
+msgid "FileName"
+msgstr "Nom de fichier"
+
+#: admin/view/template/extendons-General-settings.php:116
+#: admin/view/template/extendons_edit_settings.php:143
+msgid "Fixed"
+msgstr "Fixé"
+
+#: admin/view/template/extendons-General-settings.php:166
+#: admin/view/template/extendons_edit_settings.php:196
+#, fuzzy
+msgid ""
+"If Maximum File Upload Field Empty then customer can upload only 1 file."
+msgstr ""
+"Si le champ de téléchargement maximum de fichiers est vide, le client ne "
+"peut télécharger qu'un seul fichier."
+
+#: admin/view/template/extendons-General-settings.php:142
+#: admin/view/template/extendons_edit_settings.php:171
+msgid "KB"
+msgstr "Ko"
+
+#: admin/view/template/extendons-General-settings.php:97
+#: admin/view/template/extendons_edit_settings.php:123
+msgid "Label:"
+msgstr "Étiquette:"
+
+#: admin/view/template/extendons-General-settings.php:73
+#: admin/view/template/extendons_edit_settings.php:94
+msgid "Main upload rules:"
+msgstr "Principales règles de téléchargement :"
+
+#: admin/view/upload-files-admin-settings-page.php:17
+msgid "Manage Rule"
+msgstr "Gérer la règle"
+
+#: admin/view/template/extendons_uploadfiles_ccta_order_btn_.php:41
+#: admin/view/template/extendons_upload_file_popup.php:39
+#: admin/view/template/extendons_uploadfile_ccta_data.php:40
+#, fuzzy
+msgid "Max allowed size: "
+msgstr "Taille maximale autorisée :"
+
+#: admin/view/template/extendons-General-settings.php:164
+#: admin/view/template/extendons_edit_settings.php:192
+msgid "Maximum File Upload:"
+msgstr "Téléchargement maximal de fichiers :"
+
+#: admin/view/template/extendons_upload_file_popup.php:55
+#: admin/view/template/extendons_uploadfile_ccta_data.php:56
+#, fuzzy
+msgid "Maximum Upload File: "
+msgstr "Nombre maximal de fichiers à télécharger :"
+
+#: front/templates/extendons_template_html_cart_page_upload.php:47
+#, fuzzy
+msgid "Maximum Upload Files:"
+msgstr "Nombre maximal de fichiers téléchargés :"
+
+#: admin/view/template/extendons_upload_file_popup.php:47
+#: admin/view/template/extendons_uploadfile_ccta_data.php:48
+#, fuzzy
+msgid "Maximum Upload Files: "
+msgstr "Nombre maximal de fichiers téléchargés :"
+
+#: front/templates/extendons_template_html_cart_page_upload.php:39
+#, fuzzy
+msgid "Maximum Upload Filesize:"
+msgstr "Taille maximale du fichier à télécharger :"
+
+#: admin/view/template/extendons-General-settings.php:140
+#: admin/view/template/extendons_edit_settings.php:168
+msgid "Maximum Upload Size:"
+msgstr "Taille maximale de téléchargement :"
+
+#: admin/view/template/extendons-General-settings.php:143
+#: admin/view/template/extendons_edit_settings.php:172
+msgid "MB"
+msgstr "Mo"
+
+#: admin/extendons-upload-files-admin.php:978
+msgid "Modify FIle"
+msgstr "Modifier le fichier"
+
+#: file-uploader-for-woocommerce.php:219
+#: front/extendons-upload-files-front.php:861
+#, fuzzy
+msgid "Modify File"
+msgstr "Modifier le fichier"
+
+#: front/extendons-upload-files-front.php:426
+#: admin/extendons-upload-files-admin.php:430
+#, fuzzy
+msgid "No files uploaded"
+msgstr "Aucun fichier téléchargé"
+
+#: front/extendons-upload-files-front.php:432
+#: admin/extendons-upload-files-admin.php:438
+#, fuzzy
+msgid "No note provided"
+msgstr "Aucune note fournie"
+
+#: admin/extendons-upload-files-admin.php:471
+#, fuzzy
+msgid "No upload file rules found"
+msgstr "Aucune règle de téléchargement de fichier trouvée"
+
+#: admin/view/template/extendons-General-settings.php:117
+#: admin/view/template/extendons_edit_settings.php:144
+msgid "Percentage"
+msgstr "Pourcentage"
+
+#: file-uploader-for-woocommerce.php:204
+#: front/extendons-upload-files-front.php:846
+#: admin/extendons-upload-files-admin.php:961
+msgid "Preview"
+msgstr "Aperçu"
+
+#: file-uploader-for-woocommerce.php:202
+#: front/extendons-upload-files-front.php:844
+#: admin/extendons-upload-files-admin.php:958
+msgid "Preview Image"
+msgstr "Aperçu de l'image"
+
+#: admin/view/template/extendons-General-settings.php:107
+#: admin/view/template/extendons_edit_settings.php:134
+msgid "Price:"
+msgstr "Prix:"
+
+#: admin/view/template/extendons-General-settings.php:198
+#: admin/view/template/extendons_edit_settings.php:232
+#, fuzzy
+msgid "Product"
+msgstr "Produit"
+
+#: admin/view/template/extendons-General-settings.php:37
+#: admin/view/template/extendons_edit_settings.php:56
+msgid "Product Page"
+msgstr "Page produit"
+
+#: admin/view/template/extendons-manage-rules.php:27
+msgid "Product/Category"
+msgstr "Catégorie de produit"
+
+#: admin/view/template/extendons-General-settings.php:193
+#: admin/view/template/extendons_edit_settings.php:227
+msgid "Product/Category Restriction"
+msgstr "Restriction de produit/catégorie"
+
+#: admin/view/template/Recaptcha.php:44
+msgid "Recaptcha Secret Key"
+msgstr "Clé secrète Recaptcha"
+
+#: admin/view/upload-files-admin-settings-page.php:25
+msgid "Recaptcha Settings"
+msgstr "Paramètres de récupération"
+
+#: admin/view/template/Recaptcha.php:32
+msgid "Recaptcha site Key"
+msgstr "Clé du site Recaptcha"
+
+#: admin/extendons-upload-files-admin.php:989
+msgid "Reject"
+msgstr "Rejeter"
+
+#: admin/view/template/extendons-General-settings.php:154
+#: admin/view/template/extendons_edit_settings.php:182
+msgid "Required:"
+msgstr "Requis:"
+
+#: admin/view/template/extendons-manage-rules.php:22
+msgid "Rule"
+msgstr "Règle"
+
+#: admin/view/template/extendons-manage-rules.php:124
+msgid "Rule is empty"
+msgstr "La règle est vide"
+
+#: admin/view/template/extendons-General-settings.php:21
+#: admin/view/template/extendons_edit_settings.php:37
+msgid "Rule Name"
+msgstr "Nom de la règle"
+
+#: admin/view/template/extendons-manage-rules.php:23
+msgid "Rule Status"
+msgstr "Statut de la règle"
+
+#: admin/extendons-upload-files-admin.php:399
+#, fuzzy
+msgid "Rule Title"
+msgstr "Titre de la règle"
+
+#: admin/view/template/extendons-manage-rules.php:43
+#, fuzzy
+#| msgid "Rule:"
+msgid "Rule: "
+msgstr "Règle:"
+
+#: admin/view/template/extendons-General-settings.php:308
+#: admin/view/template/Recaptcha.php:55
+#: admin/view/template/extendons-additional-settings.php:28
+#: admin/view/template/extendons_edit_settings.php:365
+#, fuzzy
+msgid "Save Settings"
+msgstr "Enregistrer les paramètres"
+
+#: admin/view/template/extendons-General-settings.php:243
+#: admin/view/template/extendons_edit_settings.php:294
+msgid "Select category"
+msgstr "Choisir une catégorie"
+
+#: admin/view/template/extendons-General-settings.php:211
+#: admin/view/template/extendons_edit_settings.php:251
+msgid "Select Product"
+msgstr "Sélectionner un produit"
+
+#: admin/view/template/extendons-General-settings.php:115
+msgid "Select Type"
+msgstr "Sélectionner le genre"
+
+#: admin/view/template/extendons-General-settings.php:296
+#: admin/view/template/extendons_edit_settings.php:352
+msgid ""
+"Selecting at least one role will make the upload field to be "
+"visible/unvisible to that role.."
+msgstr ""
+"La sélection d'au moins un rôle rendra le champ de téléchargement "
+"visible/invisible pour ce rôle."
+
+#. Description of the plugin
+msgid "Simple interface to upload files from a page."
+msgstr "Interface simple pour télécharger des fichiers à partir d'une page."
+
+#: admin/view/template/extendons-General-settings.php:173
+#: admin/view/template/extendons_edit_settings.php:203
+msgid "Text Color:"
+msgstr "Couleur du texte :"
+
+#: admin/view/template/extendons-General-settings.php:51
+#: admin/view/template/extendons_edit_settings.php:71
+msgid "ThankYou Page"
+msgstr "Page de remerciement"
+
+#: admin/view/template/extendons_update_orderfile_data.php:10
+#, fuzzy
+msgid "Thumbnail"
+msgstr "Vignette"
+
+#: admin/view/template/extendons_uploadfiles_ccta_order_btn_.php:105
+#: admin/view/template/extendons_upload_file_popup.php:122
+#: admin/view/template/extendons_uploadfile_ccta_data.php:123
+#, fuzzy
+msgid "Total Price: "
+msgstr "Prix total :"
+
+#: admin/extendons-upload-files-admin.php:1084
+#, fuzzy
+msgid "Upload Counter"
+msgstr "Compteur de téléchargement"
+
+#: admin/view/template/extendons-General-settings.php:203
+#: admin/view/template/extendons_edit_settings.php:237
+msgid ""
+"Upload field can optionally visible/hidden only if the selected products are "
+"in cart/order."
+msgstr ""
+"Le champ de téléchargement peut éventuellement être visible/masqué "
+"uniquement si les produits sélectionnés sont dans le panier/la commande."
+
+#: front/extendons-upload-files-front.php:553
+#: admin/view/template/extendons_upload_file_popup.php:172
+#: admin/view/template/extendons_uploadfile_ccta_data.php:164
+msgid "Upload File"
+msgstr "Téléverser un fichier"
+
+#: admin/view/template/extendons-General-settings.php:134
+#: admin/view/template/extendons_edit_settings.php:162
+msgid "Upload File Button Text:"
+msgstr "Texte du bouton Télécharger le fichier :"
+
+#: admin/extendons-upload-files-admin.php:373
+#: front/templates/extendons_template_html_cart_page_upload.php:9
+#, fuzzy
+msgid "Upload Files"
+msgstr "Télécharger des fichiers"
+
+#: front/extendons-upload-files-front.php:453
+#, fuzzy
+msgid "Upload Files and Notes"
+msgstr "Télécharger des fichiers et des notes"
+
+#: admin/view/template/extendons-additional-settings.php:14
+#, fuzzy
+msgid "Upload Folder Path"
+msgstr "Chemin du dossier de téléchargement"
+
+#: admin/view/template/extendons_uploadfiles_ccta_order_btn_.php:7
+#: admin/view/template/extendons_upload_file_popup.php:7
+#: admin/view/template/extendons_uploadfile_ccta_data.php:6
+#, fuzzy
+msgid "Upload your file"
+msgstr "Téléchargez votre fichier"
+
+#: front/extendons-upload-files-front.php:455
+#: admin/extendons-upload-files-admin.php:400
+#, fuzzy
+msgid "Uploaded Files"
+msgstr "Fichiers téléchargés"
+
+#: admin/view/template/extendons-General-settings.php:271
+#: admin/view/template/extendons_edit_settings.php:327
+msgid "User role"
+msgstr "Rôle d'utilisateur"
+
+#: admin/view/template/extendons-manage-rules.php:26
+msgid "User Roles:"
+msgstr "Rôles des utilisateurs :"
+
+#: admin/view/template/extendons_update_orderfile_data.php:12
+#, fuzzy
+msgid "View"
+msgstr "Voir"
+
+#: front/extendons-upload-files-front.php:655
+msgid "View product"
+msgstr "Voir le produit"
+
+#: admin/view/template/extendons-General-settings.php:197
+#: admin/view/template/extendons_edit_settings.php:231
+#, fuzzy
+msgid "Visible for every product:"
+msgstr "Visible pour chaque produit :"
+
+#: admin/view/template/extendons_upload_file_popup.php:300
+#: admin/view/template/extendons_uploadfile_ccta_data.php:281
+#, fuzzy
+msgid "You cant leave Captcha Code empty"
+msgstr "Vous ne pouvez pas laisser le code Captcha vide"
+
+#: admin/view/upload-files-admin-settings-page.php:10
+#: admin/view/template/Recaptcha.php:12
+#: admin/view/template/extendons-additional-settings.php:10
+msgid "Your settings have been saved."
+msgstr "Vos paramètres ont été enregistrés."

@@ -1,0 +1,549 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: File Uploader for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-07-24 13:45+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.10; wp-6.5.5\n"
+"X-Domain: extendons_Upload_Files"
+
+#: admin/view/template/extendons_edit_settings.php:28
+msgid "\tEnable"
+msgstr ""
+
+#: admin/extendons-upload-files-admin.php:183
+#, php-format
+msgid ""
+"%1$s Note: %2$s If you are using a page builder (such as Elementor or "
+"WPBakery), the upload buttons may not appear on your pages. In that case, "
+"use the %3$s[extendons_upload_button]%4$s shortcode to display the file "
+"upload button."
+msgstr ""
+
+#: admin/extendons-upload-files-admin.php:1125
+msgid "0"
+msgstr ""
+
+#: admin/extendons-upload-files-admin.php:989
+msgid "Accept"
+msgstr ""
+
+#: admin/view/template/extendons-General-settings.php:56
+#: admin/view/template/extendons_edit_settings.php:76
+msgid "Account Page"
+msgstr ""
+
+#: admin/view/template/extendons_update_orderfile_data.php:13
+msgid "Action"
+msgstr ""
+
+#: admin/view/template/extendons_uploadfiles_ccta_order_btn_.php:63
+#: admin/view/template/extendons_uploadfiles_ccta_order_btn_.php:85
+#: admin/view/template/extendons_upload_file_popup.php:79
+#: admin/view/template/extendons_upload_file_popup.php:102
+#: admin/view/template/extendons_uploadfile_ccta_data.php:80
+#: admin/view/template/extendons_uploadfile_ccta_data.php:103
+msgid "Actual Price: "
+msgstr ""
+
+#: admin/view/upload-files-admin-settings-page.php:21
+msgid "Add Rule"
+msgstr ""
+
+#: admin/view/upload-files-admin-settings-page.php:29
+msgid "Additional Settings"
+msgstr ""
+
+#: admin/view/template/extendons-General-settings.php:102
+#: admin/view/template/extendons_edit_settings.php:128
+msgid "Allowed Extension:"
+msgstr ""
+
+#: admin/view/template/extendons_uploadfiles_ccta_order_btn_.php:28
+#: admin/view/template/extendons_upload_file_popup.php:26
+#: admin/view/template/extendons_uploadfile_ccta_data.php:27
+msgid "Allowed extension: "
+msgstr ""
+
+#: front/templates/extendons_template_html_cart_page_upload.php:32
+msgid "Allowed Extensions:"
+msgstr ""
+
+#: admin/view/template/extendons-General-settings.php:169
+#: admin/view/template/extendons_edit_settings.php:199
+msgid "Background Color:"
+msgstr ""
+
+#: admin/view/template/extendons-General-settings.php:41
+#: admin/view/template/extendons_edit_settings.php:60
+msgid "Cart Page"
+msgstr ""
+
+#: admin/view/template/extendons-General-settings.php:61
+#: admin/view/template/extendons_edit_settings.php:81
+msgid "Cart Page (Alongside Cart Items)"
+msgstr ""
+
+#: admin/view/template/extendons-General-settings.php:199
+#: admin/view/template/extendons_edit_settings.php:233
+msgid "Category"
+msgstr ""
+
+#: admin/view/template/extendons-General-settings.php:66
+#: admin/view/template/extendons_edit_settings.php:86
+msgid "Checkout Page (Alongside Cart Items)"
+msgstr ""
+
+#: admin/view/template/extendons-General-settings.php:46
+#: admin/view/template/extendons_edit_settings.php:66
+msgid "Checkout Page > After Notes"
+msgstr ""
+
+#: admin/view/template/extendons_update_orderfile_data.php:114
+msgid "Choose File"
+msgstr ""
+
+#: admin/view/template/extendons-General-settings.php:12
+#: admin/view/template/extendons_edit_settings.php:27
+msgid "Choose visibility"
+msgstr ""
+
+#: front/extendons-upload-files-front.php:455
+#: admin/extendons-upload-files-admin.php:401
+msgid "Customer Note"
+msgstr ""
+
+#: admin/view/template/extendons_upload_file_popup.php:260
+#: admin/view/template/extendons_uploadfile_ccta_data.php:240
+msgid "Customer Notes"
+msgstr ""
+
+#: admin/view/template/extendons-General-settings.php:160
+#: admin/view/template/extendons_edit_settings.php:188
+msgid "Customer Notes Label:"
+msgstr ""
+
+#: admin/view/template/extendons-General-settings.php:151
+#: admin/view/template/extendons_edit_settings.php:179
+msgid "Customer Notes:"
+msgstr ""
+
+#: front/templates/extendons_template_html_cart_page_upload.php:25
+#: admin/view/template/extendons-General-settings.php:129
+#: admin/view/template/extendons_edit_settings.php:156
+msgid "Description:"
+msgstr ""
+
+#: admin/view/template/extendons_uploadfiles_ccta_order_btn_.php:17
+#: admin/view/template/extendons_upload_file_popup.php:17
+#: admin/view/template/extendons_uploadfile_ccta_data.php:16
+msgid "Description: "
+msgstr ""
+
+#: admin/view/template/extendons-General-settings.php:14
+#: admin/view/template/Recaptcha.php:24
+#: admin/view/template/extendons_edit_settings.php:29
+msgid "Disable"
+msgstr ""
+
+#: admin/view/template/extendons-General-settings.php:121
+#: admin/view/template/extendons_edit_settings.php:148
+msgid "Discount Price:"
+msgstr ""
+
+#: admin/view/template/extendons_edit_settings.php:142
+msgid "Discount Type"
+msgstr ""
+
+#: admin/view/template/extendons-General-settings.php:112
+#: admin/view/template/extendons_edit_settings.php:139
+msgid "Discount Type:"
+msgstr ""
+
+#: admin/view/template/extendons_uploadfiles_ccta_order_btn_.php:68
+#: admin/view/template/extendons_uploadfiles_ccta_order_btn_.php:90
+#: admin/view/template/extendons_upload_file_popup.php:84
+#: admin/view/template/extendons_upload_file_popup.php:107
+#: admin/view/template/extendons_uploadfile_ccta_data.php:85
+#: admin/view/template/extendons_uploadfile_ccta_data.php:108
+msgid "Discount: "
+msgstr ""
+
+#: admin/view/template/extendons-General-settings.php:33
+#: admin/view/template/extendons_edit_settings.php:49
+msgid "Display On"
+msgstr ""
+
+#: admin/view/template/extendons-manage-rules.php:25
+msgid "Display Position"
+msgstr ""
+
+#: admin/extendons-upload-files-admin.php:958
+msgid "Download"
+msgstr ""
+
+#: admin/view/template/extendons-General-settings.php:13
+#: admin/view/template/Recaptcha.php:23
+msgid "Enable"
+msgstr ""
+
+#: admin/view/template/extendons_upload_files_rule_html.php:94
+msgid "Enable to Allow Customer notes"
+msgstr ""
+
+#: admin/view/template/extendons-General-settings.php:5
+#: admin/view/template/extendons_edit_settings.php:18
+msgid "Enable/Disable"
+msgstr ""
+
+#: admin/view/template/Recaptcha.php:16
+msgid "Enable/Disable Recaptcha"
+msgstr ""
+
+#. Author of the plugin
+msgid "Extendons"
+msgstr ""
+
+#: admin/extendons-upload-files-admin.php:1702
+#: admin/extendons-upload-files-admin.php:1703
+msgid "extendons_Upload_Files"
+msgstr ""
+
+#: admin/view/template/extendons_upload_file_popup.php:312
+msgid "File Successfully uploaded"
+msgstr ""
+
+#: front/templates/extendons_template_html_cart_page_upload.php:54
+msgid "File upload price after discount:"
+msgstr ""
+
+#: admin/extendons-upload-files-admin.php:1676
+msgid "File Uploader"
+msgstr ""
+
+#. Name of the plugin
+msgid "File Uploader for WooCommerce"
+msgstr ""
+
+#: admin/view/template/extendons_update_orderfile_data.php:11
+msgid "FileName"
+msgstr ""
+
+#: admin/view/template/extendons-General-settings.php:116
+#: admin/view/template/extendons_edit_settings.php:143
+msgid "Fixed"
+msgstr ""
+
+#: admin/view/template/extendons-General-settings.php:166
+#: admin/view/template/extendons_edit_settings.php:196
+msgid ""
+"If Maximum File Upload Field Empty then customer can upload only 1 file."
+msgstr ""
+
+#: admin/view/template/extendons-General-settings.php:142
+#: admin/view/template/extendons_edit_settings.php:171
+msgid "KB"
+msgstr ""
+
+#: admin/view/template/extendons-General-settings.php:97
+#: admin/view/template/extendons_edit_settings.php:123
+msgid "Label:"
+msgstr ""
+
+#: admin/view/template/extendons-General-settings.php:73
+#: admin/view/template/extendons_edit_settings.php:94
+msgid "Main upload rules:"
+msgstr ""
+
+#: admin/view/upload-files-admin-settings-page.php:17
+msgid "Manage Rule"
+msgstr ""
+
+#: admin/view/template/extendons_uploadfiles_ccta_order_btn_.php:41
+#: admin/view/template/extendons_upload_file_popup.php:39
+#: admin/view/template/extendons_uploadfile_ccta_data.php:40
+msgid "Max allowed size: "
+msgstr ""
+
+#: admin/view/template/extendons-General-settings.php:164
+#: admin/view/template/extendons_edit_settings.php:192
+msgid "Maximum File Upload:"
+msgstr ""
+
+#: admin/view/template/extendons_upload_file_popup.php:55
+#: admin/view/template/extendons_uploadfile_ccta_data.php:56
+msgid "Maximum Upload File: "
+msgstr ""
+
+#: front/templates/extendons_template_html_cart_page_upload.php:47
+msgid "Maximum Upload Files:"
+msgstr ""
+
+#: admin/view/template/extendons_upload_file_popup.php:47
+#: admin/view/template/extendons_uploadfile_ccta_data.php:48
+msgid "Maximum Upload Files: "
+msgstr ""
+
+#: front/templates/extendons_template_html_cart_page_upload.php:39
+msgid "Maximum Upload Filesize:"
+msgstr ""
+
+#: admin/view/template/extendons-General-settings.php:140
+#: admin/view/template/extendons_edit_settings.php:168
+msgid "Maximum Upload Size:"
+msgstr ""
+
+#: admin/view/template/extendons-General-settings.php:143
+#: admin/view/template/extendons_edit_settings.php:172
+msgid "MB"
+msgstr ""
+
+#: admin/extendons-upload-files-admin.php:978
+msgid "Modify FIle"
+msgstr ""
+
+#: file-uploader-for-woocommerce.php:219
+#: front/extendons-upload-files-front.php:861
+msgid "Modify File"
+msgstr ""
+
+#: front/extendons-upload-files-front.php:426
+#: admin/extendons-upload-files-admin.php:430
+msgid "No files uploaded"
+msgstr ""
+
+#: front/extendons-upload-files-front.php:432
+#: admin/extendons-upload-files-admin.php:438
+msgid "No note provided"
+msgstr ""
+
+#: admin/extendons-upload-files-admin.php:471
+msgid "No upload file rules found"
+msgstr ""
+
+#: admin/view/template/extendons-General-settings.php:117
+#: admin/view/template/extendons_edit_settings.php:144
+msgid "Percentage"
+msgstr ""
+
+#: file-uploader-for-woocommerce.php:204
+#: front/extendons-upload-files-front.php:846
+#: admin/extendons-upload-files-admin.php:961
+msgid "Preview"
+msgstr ""
+
+#: file-uploader-for-woocommerce.php:202
+#: front/extendons-upload-files-front.php:844
+#: admin/extendons-upload-files-admin.php:958
+msgid "Preview Image"
+msgstr ""
+
+#: admin/view/template/extendons-General-settings.php:107
+#: admin/view/template/extendons_edit_settings.php:134
+msgid "Price:"
+msgstr ""
+
+#: admin/view/template/extendons-General-settings.php:198
+#: admin/view/template/extendons_edit_settings.php:232
+msgid "Product"
+msgstr ""
+
+#: admin/view/template/extendons-General-settings.php:37
+#: admin/view/template/extendons_edit_settings.php:56
+msgid "Product Page"
+msgstr ""
+
+#: admin/view/template/extendons-manage-rules.php:27
+msgid "Product/Category"
+msgstr ""
+
+#: admin/view/template/extendons-General-settings.php:193
+#: admin/view/template/extendons_edit_settings.php:227
+msgid "Product/Category Restriction"
+msgstr ""
+
+#: admin/view/template/Recaptcha.php:44
+msgid "Recaptcha Secret Key"
+msgstr ""
+
+#: admin/view/upload-files-admin-settings-page.php:25
+msgid "Recaptcha Settings"
+msgstr ""
+
+#: admin/view/template/Recaptcha.php:32
+msgid "Recaptcha site Key"
+msgstr ""
+
+#: admin/extendons-upload-files-admin.php:989
+msgid "Reject"
+msgstr ""
+
+#: admin/view/template/extendons-General-settings.php:154
+#: admin/view/template/extendons_edit_settings.php:182
+msgid "Required:"
+msgstr ""
+
+#: admin/view/template/extendons-manage-rules.php:22
+msgid "Rule"
+msgstr ""
+
+#: admin/view/template/extendons-manage-rules.php:124
+msgid "Rule is empty"
+msgstr ""
+
+#: admin/view/template/extendons-General-settings.php:21
+#: admin/view/template/extendons_edit_settings.php:37
+msgid "Rule Name"
+msgstr ""
+
+#: admin/view/template/extendons-manage-rules.php:23
+msgid "Rule Status"
+msgstr ""
+
+#: admin/extendons-upload-files-admin.php:399
+msgid "Rule Title"
+msgstr ""
+
+#: admin/view/template/extendons-manage-rules.php:43
+msgid "Rule: "
+msgstr ""
+
+#: admin/view/template/extendons-General-settings.php:308
+#: admin/view/template/Recaptcha.php:55
+#: admin/view/template/extendons-additional-settings.php:28
+#: admin/view/template/extendons_edit_settings.php:365
+msgid "Save Settings"
+msgstr ""
+
+#: admin/view/template/extendons-General-settings.php:243
+#: admin/view/template/extendons_edit_settings.php:294
+msgid "Select category"
+msgstr ""
+
+#: admin/view/template/extendons-General-settings.php:211
+#: admin/view/template/extendons_edit_settings.php:251
+msgid "Select Product"
+msgstr ""
+
+#: admin/view/template/extendons-General-settings.php:115
+msgid "Select Type"
+msgstr ""
+
+#: admin/view/template/extendons-General-settings.php:296
+#: admin/view/template/extendons_edit_settings.php:352
+msgid ""
+"Selecting at least one role will make the upload field to be "
+"visible/unvisible to that role.."
+msgstr ""
+
+#. Description of the plugin
+msgid "Simple interface to upload files from a page."
+msgstr ""
+
+#: admin/view/template/extendons-General-settings.php:173
+#: admin/view/template/extendons_edit_settings.php:203
+msgid "Text Color:"
+msgstr ""
+
+#: admin/view/template/extendons-General-settings.php:51
+#: admin/view/template/extendons_edit_settings.php:71
+msgid "ThankYou Page"
+msgstr ""
+
+#: admin/view/template/extendons_update_orderfile_data.php:10
+msgid "Thumbnail"
+msgstr ""
+
+#: admin/view/template/extendons_uploadfiles_ccta_order_btn_.php:105
+#: admin/view/template/extendons_upload_file_popup.php:122
+#: admin/view/template/extendons_uploadfile_ccta_data.php:123
+msgid "Total Price: "
+msgstr ""
+
+#: admin/extendons-upload-files-admin.php:1084
+msgid "Upload Counter"
+msgstr ""
+
+#: admin/view/template/extendons-General-settings.php:203
+#: admin/view/template/extendons_edit_settings.php:237
+msgid ""
+"Upload field can optionally visible/hidden only if the selected products are "
+"in cart/order."
+msgstr ""
+
+#: front/extendons-upload-files-front.php:553
+#: admin/view/template/extendons_upload_file_popup.php:172
+#: admin/view/template/extendons_uploadfile_ccta_data.php:164
+msgid "Upload File"
+msgstr ""
+
+#: admin/view/template/extendons-General-settings.php:134
+#: admin/view/template/extendons_edit_settings.php:162
+msgid "Upload File Button Text:"
+msgstr ""
+
+#: admin/extendons-upload-files-admin.php:373
+#: front/templates/extendons_template_html_cart_page_upload.php:9
+msgid "Upload Files"
+msgstr ""
+
+#: front/extendons-upload-files-front.php:453
+msgid "Upload Files and Notes"
+msgstr ""
+
+#: admin/view/template/extendons-additional-settings.php:14
+msgid "Upload Folder Path"
+msgstr ""
+
+#: admin/view/template/extendons_uploadfiles_ccta_order_btn_.php:7
+#: admin/view/template/extendons_upload_file_popup.php:7
+#: admin/view/template/extendons_uploadfile_ccta_data.php:6
+msgid "Upload your file"
+msgstr ""
+
+#: front/extendons-upload-files-front.php:455
+#: admin/extendons-upload-files-admin.php:400
+msgid "Uploaded Files"
+msgstr ""
+
+#: admin/view/template/extendons-General-settings.php:271
+#: admin/view/template/extendons_edit_settings.php:327
+msgid "User role"
+msgstr ""
+
+#: admin/view/template/extendons-manage-rules.php:26
+msgid "User Roles:"
+msgstr ""
+
+#: admin/view/template/extendons_update_orderfile_data.php:12
+msgid "View"
+msgstr ""
+
+#: front/extendons-upload-files-front.php:655
+msgid "View product"
+msgstr ""
+
+#: admin/view/template/extendons-General-settings.php:197
+#: admin/view/template/extendons_edit_settings.php:231
+msgid "Visible for every product:"
+msgstr ""
+
+#: admin/view/template/extendons_upload_file_popup.php:300
+#: admin/view/template/extendons_uploadfile_ccta_data.php:281
+msgid "You cant leave Captcha Code empty"
+msgstr ""
+
+#: admin/view/upload-files-admin-settings-page.php:10
+#: admin/view/template/Recaptcha.php:12
+#: admin/view/template/extendons-additional-settings.php:10
+msgid "Your settings have been saved."
+msgstr ""
